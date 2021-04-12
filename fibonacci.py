@@ -1,4 +1,4 @@
-user_input = int(input("Type you choice: "))
+user_input = int(input("Type your choice: "))
 current_fibonacci_number = 0
 fibonacci_history = [1]
 user_got_it_right = False
